@@ -312,4 +312,4 @@ MongoDB    Redis
 
 ## License
 
-This project is proprietary. All rights reserved © Scalify.
+This project is proprietary. All rights reserved © Jayasriraam.
