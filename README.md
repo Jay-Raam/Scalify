@@ -1,5 +1,11 @@
 # Scalify
 
+[![CI](https://github.com/Jay-Raam/Scalify/actions/workflows/ci.yml/badge.svg)](https://github.com/Jay-Raam/Scalify/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js](https://img.shields.io/badge/Node.js-20.x-339933?logo=node.js)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)](https://react.dev/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-Yoga-E10098?logo=graphql)](https://the-guild.dev/graphql/yoga-server)
+
 A full-featured AI chat application that brings intelligent conversations to life. Scalify understands both **English and Tamil**, supports file and image attachments, remembers your conversation history, and is powered by a large language model via OpenRouter.
 
 ---
